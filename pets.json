@@ -1,16 +1,15 @@
 {
-"pets":[
-{
-"name":"Winston",
-"file":"p0.png"
-},
-{
-"name":"Higgens",
-p0.png "file":"p1.png"
-},
-{
-"name":"Broccoli",
-"file":"p2.png"
-}
-]
+	"pets": [{
+			"name": "Winston",
+			"file": "p0.png"
+		},
+		{
+			"name": "Higgens",
+			"file": "p1.png"
+		},
+		{
+			"name": "Broccoli",
+			"file": "p2.png"
+		}
+	]
 }
