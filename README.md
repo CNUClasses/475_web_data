@@ -9,4 +9,4 @@ To get a link to the .png images, just strip pets.json from above link and add t
 https://raw.githubusercontent.com/CNUClasses/475_web_data/master/p0.png
 <br>
 <br>
-Many thanks to a href="https://superuser.com/questions/660801/can-i-share-a-link-for-downloading-a-specific-file-in-my-public-github-repositor">This stack overflow</a> post for help.
+Many thanks to <a href="https://superuser.com/questions/660801/can-i-share-a-link-for-downloading-a-specific-file-in-my-public-github-repositor">This stack overflow</a> post for help.
