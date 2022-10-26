@@ -1,0 +1,16 @@
+{
+	"people": [
+        {
+			"firstname": "Robert",
+			"lastname": "kuttner"
+		},
+		{
+			"firstname": "Rachel",
+			"lastname": "Maddow"
+		},
+		{
+			"firstname": "Paul",
+			"lastname": "Krugman"
+		}
+	]
+}
