@@ -1,14 +1,19 @@
 {
-	"pets": [{
-			"name": "Winston",
+	"pets": [
+		{
+			"name": "P4",
+			"file": "p4.png"
+		},
+		{
+			"name": "P0",
 			"file": "p0.png"
 		},
 		{
-			"name": "Hobbs",
+			"name": "P1",
 			"file": "p1.png"
 		},
 		{
-			"name": "Hobbs and Chully",
+			"name": "P2&P3",
 			"file": "p2.png"
 		}
 	]
