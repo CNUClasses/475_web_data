@@ -1,24 +1,28 @@
 {
 	"pets": [
 		{
-			"name": "New P0",
-			"file": "p0.png"
+			"name": "P00",
+			"file": "p00.png"
 		},
 		{
-			"name": "P4",
-			"file": "p4.png"
+			"name": "P11",
+			"file": "p11.png"
 		},
 		{
-			"name": "P1",
-			"file": "p1.png"
+			"name": "P22",
+			"file": "p22.png"
 		},
 		{
-			"name": "P2&P3",
-			"file": "p2.png"
+			"name": "P33",
+			"file": "p33.png"
 		},
 		{
-			"name": "Another P4",
-			"file": "p4.png"
+			"name": "P44",
+			"file": "p44.png"
+		}
+		{
+			"name": "P55",
+			"file": "p55.png"
 		}
 	]
 }
