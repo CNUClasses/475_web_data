@@ -1,28 +1,20 @@
 {
 	"pets": [
 		{
-			"name": "P00",
-			"file": "p00.png"
+			"name": "pet0",
+			"file": "pet0.png"
 		},
 		{
-			"name": "P11",
-			"file": "p11.png"
+			"name": "pet1",
+			"file": "pet1.png"
 		},
 		{
-			"name": "P22",
-			"file": "p22.png"
+			"name": "pet2",
+			"file": "pet2.png"
 		},
 		{
-			"name": "P33",
-			"file": "p33.png"
+			"name": "pet3",
+			"file": "pet3.png"
 		},
-		{
-			"name": "P44",
-			"file": "p44.png"
-		},
-		{
-			"name": "P55",
-			"file": "p55.png"
-		}
 	]
 }
