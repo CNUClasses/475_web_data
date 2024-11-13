@@ -1,8 +1,20 @@
 {
 	"pets": [
 		{
-			"name": "pet0",
-			"file": "pet0.png"
+			"name": "0",
+			"file": "p0.png"
+		},
+		{
+			"name": "1",
+			"file": "p1.png"
+		},
+		{
+			"name": "2",
+			"file": "p2.png"
+		},
+		{
+			"name": "3",
+			"file": "p3.png"
 		},
 		{
 			"name": "pet1",
@@ -11,10 +23,6 @@
 		{
 			"name": "pet2",
 			"file": "pet2.png"
-		},
-		{
-			"name": "pet3",
-			"file": "pet3.png"
 		}
 	]
 }
